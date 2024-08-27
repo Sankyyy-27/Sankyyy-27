@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Sankyyy-27/Sankyyy-27/blob/main/coder.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sanket Shah</h1>
 <h3 align="center">A passionate full-stack developer with a knack for creating dynamic web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/55/39/8b/55398b80d2b3d3e43327a1626013d14e.png">
