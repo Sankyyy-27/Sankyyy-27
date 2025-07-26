@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankyyy-27&label=Profile%20views&color=0e75b6&style=flat" alt="sankyyy-27" /> </p>
 
-- 🔭 I’m currently working on [Chatscript](https://chatscript-gtzw.onrender.com/)
+- 🔭 I am working as a software engineer at Shipturtle
 
 - 🌱 I’m currently learning **Spring Boot**
 
