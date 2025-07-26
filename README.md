@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Chatscript](https://chatscript-gtzw.onrender.com/)
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sankyyy-27](https://github.com/Sankyyy-27)
 
 - 💬 Ask me about **Full-Stack Development , ML**
 
-- 📫 How to reach me **sanket.s3@ahduni.edu.in**
+- 📫 How to reach me **sanketshah661@gmail.com**
 
 - ⚡ Fun fact **I think I am funny!**
 
